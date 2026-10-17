@@ -33,6 +33,8 @@
 
 | สมาชิก | งานที่รับผิดชอบ |
 |---|---|
-| _ชื่อ_ | _(ตกลงกันภายหลัง)_ |
-| _ชื่อ_ | _(ตกลงกันภายหลัง)_ |
-| _ชื่อ_ | _(ตกลงกันภายหลัง)_ |
+| คนที่ 1 — _ชื่อ_ | ตั้งโปรเจกต์, Login/Logout, 2 roles, Category CRUD — [รายละเอียด](../docs/team/MEMBER_1.md) |
+| คนที่ 2 — _ชื่อ_ | Activity CRUD, หน้าสาธารณะ, Blade layout และ CSS — [รายละเอียด](../docs/team/MEMBER_2.md) |
+| คนที่ 3 — _ชื่อ_ | Registration CRUD, Export และ PHP library — [รายละเอียด](../docs/team/MEMBER_3.md) |
+
+ดู [ข้อตกลงร่วมและลำดับทำงาน](../docs/team/README.md) สำหรับ schema, สิทธิ์, ไฟล์ร่วม และ checklist ก่อนส่ง
